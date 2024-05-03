@@ -70,6 +70,7 @@ img{
     width: calc(100% - 2rem);
     margin-left: var(--mb-2);
     margin-right: var(--mb-2);
+    margin-top: var(--mb-2);
 }
 .l-header{
     width: 100%;
