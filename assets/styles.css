@@ -488,7 +488,7 @@ img{
         right:0%;
       }
     .portfolio__img img{
-        height: calc(70%);
+        height: calc(77%);
       }
   }
   @media screen and (min-height: 721px) {
