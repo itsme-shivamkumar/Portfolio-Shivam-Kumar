@@ -70,7 +70,6 @@ img{
     width: calc(100% - 2rem);
     margin-left: var(--mb-2);
     margin-right: var(--mb-2);
-    margin-top: var(--mb-2);
 }
 .l-header{
     width: 100%;
@@ -487,6 +486,9 @@ img{
       .home__img{
         width: 400px;
         right:0%;
+      }
+    .portfolio__img img{
+        height: calc(70%);
       }
   }
   @media screen and (min-height: 721px) {
